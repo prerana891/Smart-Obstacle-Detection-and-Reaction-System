@@ -1,5 +1,5 @@
 # Smart-Obstacle-Detection-and-Reaction-System
-# Obstacle Detection and Smart Response System Using Arduino Nano
+# Obstacle Detection and Smart Response System Using Arduino Nano 
 
 ---
 
